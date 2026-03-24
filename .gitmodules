@@ -1,6 +1,6 @@
 [submodule "Habit Tracker App/habit-tracker-pwa"]
 	path = Habit Tracker App/habit-tracker-pwa
-	url = https://github.com/Arshin-A-S/habit-tracker-pwa
+	url = https://github.com/Arshin-A-S/Habit-Tracker-App.git
 [submodule "Secure Notes App/secure-notes"]
 	path = Secure Notes App/secure-notes
-	url = https://github.com/Arshin-A-S/secure-notes
+	url = https://github.com/Arshin-A-S/Secure-Notes-App.git
